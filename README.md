@@ -24,7 +24,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-	<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:manothushanth@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/thushanth24"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
@@ -67,16 +67,16 @@
 
 ## 📊 GitHub Stats
 
-### 🔥 Streak Stats
+###  Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thushanth24&theme=tokyonight_duo" alt="streak"/></p>
 
-### 💻 GitHub Profile Stats
+###  GitHub Profile Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=thushanth24&show_icons=true&theme=tokyonight" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thushanth24&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
-### ⚡ Recent GitHub Activity
+###  Recent GitHub Activity
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thushanth24&theme=tokyo-night"/>
 </p>
