@@ -8,8 +8,6 @@
 
 <br>
 
-
-
 ---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
@@ -69,25 +67,18 @@
 
 ## 📊 GitHub Stats
 
-<details><summary>🔥 Streak Stats</summary>
+### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thushanth24&theme=tokyonight_duo" alt="streak"/></p>
-</details>
 
-<details><summary>💻 GitHub Profile Stats</summary>
+### 💻 GitHub Profile Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=thushanth24&show_icons=true&theme=tokyonight" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thushanth24&layout=compact&theme=tokyonight" height="200"/>
 </p>
-</details>
 
-<details><summary>⚡ Recent GitHub Activity</summary>
+### ⚡ Recent GitHub Activity
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thushanth24&theme=tokyo-night"/>
 </p>
-</details>
-
-
 
 ---
-
-
