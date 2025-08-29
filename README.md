@@ -48,6 +48,14 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black"/>
 </p>
 
+### 🛠️ Backend
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/>
+</p>
+
+
 ###  Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white"/>
