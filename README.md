@@ -8,9 +8,7 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=thushanth24&label=Profile%20views&color=0047AB&style=plastic" alt="profile views" height=25px /> 
-</p>
+
 
 ---
 
@@ -88,15 +86,8 @@
 </p>
 </details>
 
-<details><summary>🏆 GitHub Trophies</summary>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thushanth24&theme=tokyonight&row=2&column=4"/>
-</p>
-</details>
+
 
 ---
 
-## 🐍 Fun
-<p align="center">
-  <img src="https://github.com/thushanth24/thushanth24/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+
